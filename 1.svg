@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
+  <g id="c" data-name="Layer 1">
+    <polygon points="0 0 0 400 1000 300 1000 100 0 0" style="fill: #fff;"/>
+    <circle cx="250" cy="200" r="100" style="fill: #d2202b;"/>
+  </g>
+</svg>

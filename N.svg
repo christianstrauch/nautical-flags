@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="c" data-name="Layer 1">
+    <rect width="125" height="125" transform="translate(0 125) rotate(-90)" style="fill: #185191;"/>
+    <rect x="0" y="125" width="125" height="125" transform="translate(-125 250) rotate(-90)" style="fill: #fff;"/>
+    <rect x="125" width="125" height="125" transform="translate(125 250) rotate(-90)" style="fill: #fff;"/>
+    <rect x="125" y="125" width="125" height="125" transform="translate(0 375) rotate(-90)" style="fill: #185191;"/>
+    <rect x="250" y="0" width="125" height="125" transform="translate(250 375) rotate(-90)" style="fill: #185191;"/>
+    <rect x="250" y="125" width="125" height="125" transform="translate(125 500) rotate(-90)" style="fill: #fff;"/>
+    <rect x="375" width="125" height="125" transform="translate(375 500) rotate(-90)" style="fill: #fff;"/>
+    <rect x="375" y="125" width="125" height="125" transform="translate(250 625) rotate(-90)" style="fill: #185191;"/>
+    <rect x="250" y="250" width="125" height="125" transform="translate(0 625) rotate(-90)" style="fill: #185191;"/>
+    <rect x="250" y="375" width="125" height="125" transform="translate(-125 750) rotate(-90)" style="fill: #fff;"/>
+    <rect x="375" y="250" width="125" height="125" transform="translate(125 750) rotate(-90)" style="fill: #fff;"/>
+    <rect x="375" y="375" width="125" height="125" transform="translate(0 875) rotate(-90)" style="fill: #185191;"/>
+    <rect x="0" y="250" width="125" height="125" transform="translate(-250 375) rotate(-90)" style="fill: #185191;"/>
+    <rect x="0" y="375" width="125" height="125" transform="translate(-375 500) rotate(-90)" style="fill: #fff;"/>
+    <rect x="125" y="250" width="125" height="125" transform="translate(-125 500) rotate(-90)" style="fill: #fff;"/>
+    <rect x="125" y="375" width="125" height="125" transform="translate(-250 625) rotate(-90)" style="fill: #185191;"/>
+  </g>
+</svg>

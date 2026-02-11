@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="c" data-name="Layer 1">
+    <rect width="250" height="250" transform="translate(0 250) rotate(-90)" style="fill: #d2202b;"/>
+    <rect y="250" width="250" height="250" transform="translate(-250 500) rotate(-90)" style="fill: #fff;"/>
+    <rect x="250" y="0" width="250" height="250" transform="translate(250 500) rotate(-90)" style="fill: #fff;"/>
+    <rect x="250" y="250" width="250" height="250" transform="translate(0 750) rotate(-90)" style="fill: #d2202b;"/>
+  </g>
+</svg>

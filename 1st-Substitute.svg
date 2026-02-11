@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
+  <g id="c" data-name="Layer 1">
+    <polyline points="1000 200 0 400 0 0" style="fill: #185191;"/>
+    <polyline points="750 200 0 350 0 50" style="fill: #fed209;"/>
+  </g>
+</svg>

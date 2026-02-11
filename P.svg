@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="c" data-name="Layer 1">
+    <rect width="500" height="500" transform="translate(0 500) rotate(-90)" style="fill: #185191;"/>
+    <rect x="166.67" y="166.67" width="166.67" height="166.67" transform="translate(0 500) rotate(-90)" style="fill: #fff;"/>
+  </g>
+</svg>

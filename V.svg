@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 501.7">
+  <g id="c" data-name="Layer 1">
+    <rect y="1.7" width="500" height="500" style="fill: #d2202b;"/>
+    <polyline points="500 447.16 300 247.16 500 47.16" style="fill: #fff;"/>
+    <polyline points="0 51.7 200 251.7 0 451.7" style="fill: #fff;"/>
+    <polyline points="450 0 250 200 50 0" style="fill: #fff;"/>
+    <polyline points="55.77 501.7 255.77 301.7 455.77 501.7" style="fill: #fff;"/>
+  </g>
+</svg>

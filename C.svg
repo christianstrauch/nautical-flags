@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="c" data-name="Layer 1">
+    <rect y="200" width="500" height="100" style="fill: #d2202b;"/>
+    <rect width="500" height="100" style="fill: #185191;"/>
+    <rect y="100" width="500" height="100" style="fill: #fff;"/>
+    <rect y="300" width="500" height="100" style="fill: #fff;"/>
+    <rect y="400" width="500" height="100" style="fill: #185191;"/>
+  </g>
+</svg>
