@@ -31,6 +31,7 @@
 
 ## Numbers
 | Number | Flag |
+| --- | --- |
 | `0` - 0 | ![0](/0.svg) |
 | `1` - 1 | ![1](/1.svg) |
 | `2` - 2 | ![2](/2.svg) |
@@ -44,6 +45,7 @@
 
 ## Other
 | Meaning | Flag |
+| --- | --- |
 | `AP` | ![AP](/AP.svg) |
 | `1st` Substitute | ![1st-Substitute](/1st-Substitute.svg) |
 | `2nd` Substitute | ![2nd-Substitute](/2nd-Substitute.svg) |
