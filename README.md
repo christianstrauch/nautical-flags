@@ -1,5 +1,5 @@
 # SVGs of nautical flags
-
+## Letters
 | Letter | Flag |
 | --- | --- |
 | `A` - Alpha | ![A](/A.svg) |
@@ -28,7 +28,9 @@
 | `X` - X-ray | ![X](/X.svg) |
 | `Y` - Yankee | ![Y](/Y.svg) |
 | `Z` - Zulu | ![Z](/Z.svg) |
-|         |              |
+
+## Numbers
+| Number | Flag |
 | `0` - 0 | ![0](/0.svg) |
 | `1` - 1 | ![1](/1.svg) |
 | `2` - 2 | ![2](/2.svg) |
@@ -39,10 +41,11 @@
 | `7` - 7 | ![7](/7.svg) |
 | `8` - 8 | ![8](/8.svg) |
 | `9` - 9 | ![9](/9.svg) |
-|         |              |
+
+## Other
+| Meaning | Flag |
+| `AP` | ![AP](/AP.svg) |
 | `1st` Substitute | ![1st-Substitute](/1st-Substitute.svg) |
 | `2nd` Substitute | ![2nd-Substitute](/2nd-Substitute.svg) |
 | `3rd` Substitute | ![3rd-Substitute](/3rd-Substitute.svg) |
 | `4th` Substitute | ![4th-Substitute](/4th-Substitute.svg) |
-|   |   |
-| `AP` | ![AP](/AP.svg) |
